@@ -48,9 +48,9 @@ ul.stickynote li.stickynote a.stickynote{
   text-decoration:none;
   color:black;
   background:#b3f0ff;  
-  display:block;
-  height:5em;
-  width:5em;
+  display:inline;
+  height:8em;
+  width:8em;
   padding:1em;
 }
 ul.stickynote li.stickynote{
